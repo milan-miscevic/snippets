@@ -1,5 +1,6 @@
 ```bash
 docker exec -it CONTAINER_NAME bash
+docker exec -it -u 0 CONTAINER_NAME bash
 ```
 
 ```bash
