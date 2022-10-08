@@ -1,4 +1,5 @@
 ```bash
+docker run composer:2 composer -V
 docker exec -it CONTAINER_NAME bash
 docker exec -it -u 0 CONTAINER_NAME bash
 ```
