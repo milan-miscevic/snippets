@@ -1,0 +1,2 @@
+- http://www.w3schools.com/cssref/css_selectors.asp
+- https://jubianchi.github.io/semver-check/#/
